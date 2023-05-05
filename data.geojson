@@ -4,6 +4,10 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::25830" } },
 "features": [
 { "type": "Feature", "properties": { "tipo": "POSTE", "parada": "Alcalde F. Boronat (Miguel Hernández)", "Pendiente": 231.0, "Linea": 0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 720165.185733568621799, 4286961.1721804831177 ] ] } },
+{ "type": "Feature", "properties": { "tipo": "MARQUESINA", "parada": "Na Saurina d'Entença Parque (mercat)", "Pendiente": 187.0, "Linea": 0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 718982.380386685370468, 4286486.292608461342752 ] ] } },
+{ "type": "Feature", "properties": { "tipo": "POSTE", "parada": "Verge Maria", "Pendiente": 187.0, "Linea": 0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 719724.114753416390158, 4286604.814139398746192 ] ] } },
+{ "type": "Feature", "properties": { "tipo": "POSTE", "parada": "Sant Joan de Ribera enfront 10", "Pendiente": 187.0, "Linea": 0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 720205.804133864003234, 4286132.281800769269466 ] ] } },
+{ "type": "Feature", "properties": { "tipo": "POSTE", "parada": "Sant Joan de Ribera enfront 46", "Pendiente": 187.0, "Linea": 0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 720292.394218051573262, 4286093.948290022090077 ] ] } },
 { "type": "Feature", "properties": { "tipo": "POSTE", "parada": "Sant Joan de Ribera enfront 74", "Pendiente": 187.0, "Linea": 0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 720325.301407086662948, 4286074.360677501186728 ] ] } },
 { "type": "Feature", "properties": { "tipo": null, "parada": "Na Saurina d'Entença 65 (Adolfo Domínguez)", "Pendiente": 169.0, "Linea": 0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 719289.339673265814781, 4286843.13780793081969 ] ] } },
 { "type": "Feature", "properties": { "tipo": null, "parada": "Na Saurina d'Entença 23", "Pendiente": 187.0, "Linea": 0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 719097.842136683408171, 4286618.651199921965599 ] ] } },
