@@ -3,7 +3,7 @@
 "name": "paradas autobuses",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::25830" } },
 "features": [
-{ "type": "Feature", "properties": { "tipo": "POSTE", "parada": "Alcalde F. Boronat (Miguel Hernández)", "Pendiente": 231.0, "Linea": 0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 720165.185733568621799, 4286961.1721804831177 ] ] } },
+{ "type": "Feature", "properties": { "tipo": "POSTE", "parada": "Alcalde F. Boronat (Miguel Hernández)", "Pendiente": 21.0, "Linea": 0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 720165.185733568621799, 4286961.1721804831177 ] ] } },
 { "type": "Feature", "properties": { "tipo": "MARQUESINA", "parada": "Na Saurina d'Entença Parque (mercat)", "Pendiente": 187.0, "Linea": 0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 718982.380386685370468, 4286486.292608461342752 ] ] } },
 { "type": "Feature", "properties": { "tipo": "POSTE", "parada": "Verge Maria", "Pendiente": 187.0, "Linea": 0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 719724.114753416390158, 4286604.814139398746192 ] ] } },
 { "type": "Feature", "properties": { "tipo": "POSTE", "parada": "Sant Joan de Ribera enfront 10", "Pendiente": 187.0, "Linea": 0 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 720205.804133864003234, 4286132.281800769269466 ] ] } },
